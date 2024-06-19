@@ -1,0 +1,25 @@
+.lista{
+    
+    background-color:rgb(29, 8, 8);
+    font-size: 14pt;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+th{
+    padding-inline-end: 2px;
+}
+
+#Tabela{
+    color: rgb(0, 0, 0);
+    background-color: rgb(30, 255, 0);
+}
+
+.imagem{
+    width: 200px;
+    height: 150px;
+}
+body{
+    background-color: black;
+    margin-top: 1%;
+    margin-left: 35%;
+}
